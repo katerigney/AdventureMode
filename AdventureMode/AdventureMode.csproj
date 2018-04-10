@@ -42,8 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bike.cs" />
+    <Compile Include="Engines.cs" />
+    <Compile Include="Motorcycle.cs" />
+    <Compile Include="NissanLeaf.cs" />
+    <Compile Include="PedalPowered.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TranspoModes.cs" />
+    <Compile Include="Unicycle.cs" />
+    <Compile Include="WearHelmet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
